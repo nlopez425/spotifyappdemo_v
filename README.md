@@ -31,3 +31,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## APP Alert
 Unfortunatley the spotify api requires users to be white listed under the development access of the api. Hence not anyone can sign in, the application will throw an error unless your email is white listed.
+
+## ToDo's
+- Logout functionality
+- Refresh token functionality
